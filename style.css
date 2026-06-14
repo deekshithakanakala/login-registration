@@ -1,0 +1,17 @@
+body {
+    background-color:#ccced16c;
+    min-height:100vh;
+    display : flex;
+    flex-direction: column;
+}
+.login-container{
+   flex:1;
+    padding:20px 10px;
+}
+.card{
+    width:100px;
+    border:none;
+    border-radius:16px;
+    box-shadow:0 0 12px rgba(0,0,0,0.1);
+    width:100%
+}
